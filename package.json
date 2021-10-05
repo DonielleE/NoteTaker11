@@ -4,12 +4,23 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm start"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
     "uuid": "^8.3.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DonielleE/NoteTaker11.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/DonielleE/NoteTaker11/issues"
+  },
+  "homepage": "https://github.com/DonielleE/NoteTaker11#readme"
 }
